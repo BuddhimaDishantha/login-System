@@ -1,0 +1,23 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background-color: rgb(89, 89, 231);
+    background: linear-gradient(to right,#dec7c7,#00ffff);
+}
+.container{
+    background-color: #fff;
+    width: 300px;
+    border:2px solid rgba(251, 160, 2, 0.919);
+    border-radius: 5px;
+    padding:1.5rem;
+    margin:  auto;
+    margin-top: 200px;
+    box-shadow:0 0px 35px rgba(251, 160, 2, 0.919) ;
+}
+form{
+    margin:  0 25px;;
+}
